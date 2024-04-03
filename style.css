@@ -29,25 +29,3 @@ p{
     color: blue;
     font-style: italic;
 }
-
-.new_p
-{
-    color: black;
-    /* Размер шрифта */
-    font-size: 16px;
-    /* Ширина */
-    width: 50%;
-    /* Выравнивание текста */
-    /* left, right, center, justify */
-    text-align: justify;
-    /* Насыщенность/Жирность */
-    font-weight: bold;
-    /* Начертание/курсив */
-    font-style: italic;
-    /* Пространствро между строк */
-    line-height: 40px;
-    /* Отступ первой строки */
-    text-indent: 40px;
-    /* Подчёркивание/Вычёркивание */
-    text-decoration: underline;
-}
